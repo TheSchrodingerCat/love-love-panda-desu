@@ -116,6 +116,16 @@ body{
 	height: 680px;
 }
 
+/* pie de pagina */
+
+footer{
+	background-color: #F78E69;
+	padding: 1px 30px 9px 30px;
+	text-align: right;
+	color: white;
+	font-weight: bolder;
+}
+
 
 /*
 Colores & tipografía: 
