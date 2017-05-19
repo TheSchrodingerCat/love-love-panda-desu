@@ -1,3 +1,65 @@
+*{
+	font-family: 'Raleway', sans-serif;
+}
+
+body{
+	background-color: #F78E69;
+}
+
+.cabecera{
+	padding: 35px;
+	color: white;
+	text-align: right;
+}
+
+.cabecera h1{
+	font-size: 60px;
+	font-style: bold;
+}
+
+.cabecera p{
+	font-size: 20px;
+	line-height: 0;
+}
+
+/* section 2 */
+.dos{
+	text-align: left;
+}
+
+#foto1{
+	box-sizing: border-box;
+	text-align: left;
+	padding: 0 30px;
+}
+
+#picture1{
+	text-align: left;
+	padding: 0;
+}
+
+/* section 3 */
+
+#about{
+	background-color: #ABE188;
+	text-align: center;
+	padding: 5% 28%;
+	box-sizing: border-box;
+	height: 500px;
+}
+
+#sub-about{
+	box-sizing: border-box;
+	width: 100%;
+	height: 380px;
+	background-color: #F78E69;
+	text-align: center;
+	color: white;
+	padding: 7%;
+}
+
+
+
 /*
 Colores & tipografía: 
 Verde - #ABE188;
