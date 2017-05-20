@@ -31,16 +31,23 @@ body{
 	box-sizing: border-box;
 	margin: 20px 0;
 	background: url('../img/uno.jpg');
+	filter: grayscale(100%);
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
 	background-size: cover;
 	background-position: center;
 	height: 460px;
 }
 
-/*#foto1{
-	box-sizing: border-box;
-	text-align: left;
-	padding: 0 30px;
-}
+/*#foto1
+
+	filter: grayscale(100%);
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
 
 #picture1{
 	text-align: left;
@@ -114,6 +121,11 @@ body{
 	background: url('../img/tres.jpg');
 	background-size: cover;
 	height: 680px;
+	filter: grayscale(100%);
+	-webkit-filter: grayscale(100%);
+	-moz-filter: grayscale(100%);
+	-ms-filter: grayscale(100%);
+	-o-filter: grayscale(100%);
 }
 
 /* pie de pagina */
